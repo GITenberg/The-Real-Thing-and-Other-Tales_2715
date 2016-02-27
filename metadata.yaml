@@ -1,0 +1,31 @@
+_repo: The-Real-Thing-and-Other-Tales_2715
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: This perfectly wrought little tale of a painter struggling with his muse
+  brings together a number of the most important themes that renowned American writer
+  Henry James returned to again and again in his work -- the difficulty of artistic
+  expression, the meaning of truth, and conflict between socioeconomic classes.
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists'' models -- Fiction'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+title: The Real Thing and Other Tales
+url: http://www.gutenberg.org/ebooks/2715
