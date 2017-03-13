@@ -1,5 +1,8 @@
 _repo: The-Real-Thing-and-Other-Tales_2715
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -12,6 +15,8 @@ description: This perfectly wrought little tale of a painter struggling with his
   brings together a number of the most important themes that renowned American writer
   Henry James returned to again and again in his work -- the difficulty of artistic
   expression, the meaning of truth, and conflict between socioeconomic classes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2715#The-Real-Thing-and-Other-Tales
 gutenberg_issued: '2001-07-01'
 gutenberg_type: Text
 identifiers:
