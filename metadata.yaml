@@ -1,5 +1,5 @@
 _repo: The-Real-Thing-and-Other-Tales_2715
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Married people -- Fiction'
 - !lcsh 'Artists -- Fiction'
 - !lcsh 'Social classes -- Fiction'
+- GITenberg
 title: The Real Thing and Other Tales
 url: http://www.gutenberg.org/ebooks/2715
